@@ -1,0 +1,5 @@
+![img1](https://github.com/UchithmaSenevirathne/Frontend-Projects/blob/main/HTML%20-%20Bootstrap/Hotel-Website/Images/hl1.png)
+![img2](https://github.com/UchithmaSenevirathne/Frontend-Projects/blob/main/HTML%20-%20Bootstrap/Hotel-Website/Images/hl2.png)
+![img3](https://github.com/UchithmaSenevirathne/Frontend-Projects/blob/main/HTML%20-%20Bootstrap/Hotel-Website/Images/hl3.png)
+![img4](https://github.com/UchithmaSenevirathne/Frontend-Projects/blob/main/HTML%20-%20Bootstrap/Hotel-Website/Images/hl4.png)
+![img5](https://github.com/UchithmaSenevirathne/Frontend-Projects/blob/main/HTML%20-%20Bootstrap/Hotel-Website/Images/hl5.png)
